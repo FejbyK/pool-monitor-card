@@ -31,19 +31,19 @@
     "@rollup/plugin-babel": "^6.0.4",
     "@rollup/plugin-node-resolve": "^15.2.3",
     "@rollup/plugin-replace": "^6.0.1",
-    "@rollup/plugin-terser": "^0.4.4",
-    "@vitest/coverage-v8": "^2.1.6",
-    "@vitest/ui": "^2.1.6",
+    "@rollup/plugin-terser": "^1.0.0",
+    "@vitest/coverage-v8": "^2.1.9",
+    "@vitest/ui": "^2.1.9",
     "eslint": "^9.16.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-import": "^2.29.1",
     "globals": "^15.13.0",
     "jsdom": "^25.0.1",
     "pixelmatch": "^6.0.0",
-    "playwright": "^1.40.0",
+    "playwright": "^1.55.1",
     "pngjs": "^7.0.0",
     "prettier": "^3.4.1",
-    "rollup": "^4.28.0",
-    "vitest": "^2.1.6"
+    "rollup": "^4.60.1",
+    "vitest": "^2.1.9"
   }
 }
